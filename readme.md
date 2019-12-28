@@ -10,3 +10,6 @@
 
  Alias is a command that is used to give a command or a chain of commands a custom name. Look at it like creating your own console commands using existing commands.
  Bind - is the command that you use to link a console command to a key.
+
+
+<img src='./console_cfg.jpg' />
